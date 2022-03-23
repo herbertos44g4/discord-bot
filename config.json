@@ -1,0 +1,42 @@
+{
+    "bot_config": {
+        "server_id": 877339574672691230,
+        "logs": 951121784781041694,
+        "prefix": ".",
+        "token": "OTU2MTkyNTcyNzI2OTcyNTU2.Yjspug.1VjPOihhI3G2L04elGzLiICq8GQ",
+        "twitch_channel": "95620618685894659"
+    },
+    "tfollow": {
+        "👑ᴏᴡɴᴇʀ👑": 10000,
+        "+3000": 3000,
+        "Premium": 1000,
+        "Diamond": 800,
+        "Silver": 300,
+        "Bronze": 200,
+        "members": 5
+    },
+    "tfriend": {
+        "+3000": 3000,
+        "Premium": 1000,
+        "Diamond": 800,
+        "Silver": 300,
+        "Bronze": 200,
+        "members": 50
+    },
+    "treport": {
+        "+3000": 3000,
+        "Premium": 1000,
+        "Diamond": 800,
+        "Silver": 300,
+        "Bronze": 200,
+        "members": 50
+    },
+    "tspam": {
+        "+3000": 100,
+        "Premium": 60,
+        "Diamond": 40,
+        "Silver": 20,
+        "Bronze": 15,
+        "members": 10
+    }
+}
