@@ -22,7 +22,8 @@ def get_prefix():
 config_file = get_config()
 config = json.loads(config_file)
 prefix = config['bot_config']["prefix"]
-token = config['bot_config']["token"]
+# token = config['bot_config']["token"]
+token = getenv("TOKEN")
 
 queue = []
 
